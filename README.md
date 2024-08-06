@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Roger
 
-<!--
-**Roger90Br/Roger90Br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Aspirante a Cientista de Dados**
 
-Here are some ideas to get you started:
+🔍 Apaixonado por descobrir insights a partir dos dados e resolver problemas complexos. Acabei de concluir um curso de Ciência de Dados e estou ansioso para aplicar meus conhecimentos e habilidades em projetos reais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🔧 **Tecnologias e Ferramentas**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+📫 **Entre em contato**:
+- Email: [regor0991@example.com]
+
